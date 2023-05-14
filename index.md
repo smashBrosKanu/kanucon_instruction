@@ -4,7 +4,7 @@
 # Webconfigへのアクセス方法
 かぬコンの設定は、Webconfigから行います。
 Plusボタンを押しながらPCへ接続
-(http://192.168.7.1)にアクセス
+[](http://192.168.7.1)にアクセス
 # BOOTSELについて
 Webconfigにアクセス
 Rebootをクリック
