@@ -36,7 +36,16 @@ PCとかぬコンの接続を解除
 
 # TILTボタンについて
 かぬコンでは、スマブラ特有の動作をスティックを使わずに再現するためにTILTボタンを設定しています。
+
 Tilt1よりTilt2のほうがスティックの傾きがより小さくなります。
+
+### tilt1
+<img src="tilt1-01.jpg" width="300">
+
+
+### tilt2
+<img src="tilt2-01.jpg" width="300">
+
 Tiltボタンを押しながら、Right Analogを押すことで上下にシフトさせることができます。
 ## Pin Mappingでは、方向キーは設定しない
 Tiltの機能を使用する場合、Up,Down,Left,Rightの設定は、Add-Ons ConfigurationのTiltから設定を行います。
@@ -74,3 +83,13 @@ Functionボタンは、Right Analogと同時押しすることで、Home,Minus,P
 <img src="func4-01.jpg" width="300">
 
 試合中に押すことで、試合が中断する可能性のあるボタンを押しにくくしました。
+
+## Tilt1ボタンとTilt2ボタンを同時に押すことで、Right AnalogがD-Padとして機能する
+
+<img src="dpadr-01.jpg" width="300">
+
+<img src="dpadd-01.jpg" width="300">
+
+<img src="dpadu-01.jpg" width="300">
+
+<img src="dpadl-01.jpg" width="300">
