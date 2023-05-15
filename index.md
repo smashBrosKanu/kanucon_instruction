@@ -40,11 +40,11 @@ PCとかぬコンの接続を解除
 Tilt1よりTilt2のほうがスティックの傾きがより小さくなります。
 
 ### tilt1
-<img src="tilt1-01.jpg" width="600">
+<img src="tilt1-01.jpg" width="300">
 
 
 ### tilt2
-<img src="tilt2-01.jpg" width="600">
+<img src="tilt2-01.jpg" width="300">
 
 Tiltボタンを押しながら、Right Analogを押すことで上下にシフトさせることができます。
 ## Pin Mappingでは、方向キーは設定しない
