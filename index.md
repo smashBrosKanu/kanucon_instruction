@@ -7,7 +7,7 @@
 かぬコンの設定は、Webconfigから行います。
 
 Plusボタンを押しながらPCへ接続
-<img src="button_s2.jpg" alt="">
+![DefaultのMinusボタンの位置](button-s2.jpg "サンプル")
 
 [Link](http://192.168.7.1)にアクセス
 # ファームウェアの更新方法について
