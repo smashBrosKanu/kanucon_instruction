@@ -85,7 +85,6 @@ Functionボタンは、Right Analogと同時押しすることで、Home,Minus,P
 試合中に押すことで、試合が中断する可能性のあるボタンを押しにくくしました。
 
 ## Tilt1ボタンとTilt2ボタンを同時に押すことで、Right AnalogがD-Padとして機能する
-Functionボタンは、Right Analogと同時押しすることで、Home,Minus,Plus,Captureが機能します。
 
 <img src="dpadr-01.jpg" width="300">
 
