@@ -57,4 +57,20 @@ Left Analog（Lスティック）とRight Analog(Cスティック)の設定を�
 ## FunctionボタンとRight Analogを同時押しでHome,Minus,Plus,Captureが機能する
 Functionボタンは、Right Analogと同時押しすることで、Home,Minus,Plus,Captureが機能します。
 
+### Plus
+
+<img src="func2-01.jpg" width="300">
+
+### HOME
+
+<img src="func1-01.jpg" width="300">
+
+### Capture
+
+<img src="func3-01.jpg" width="300">
+
+## Minus
+
+<img src="func4-01.jpg" width="300">
+
 試合中に押すことで、試合が中断する可能性のあるボタンを押しにくくしました。
