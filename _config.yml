@@ -1,4 +1,13 @@
 ---
 title: "かぬコンの説明書"
+description: >- # この行以下の文字列がサイトの説明になります。
+  かぬコンの設定や操作方法についての説明書です。
+baseurl: "/instruction" # サイトのルートURLに追加されるサブパス
 thema: minima
+plugins:
+  - jekyll-feed
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: /:categories/:year/:month/:day/:title
 ---
