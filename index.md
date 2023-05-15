@@ -14,11 +14,19 @@ Plusボタンを押しながらPCへ接続（デフォルトのPlusボタンは�
 # ファームウェアの更新方法について
 Webconfigにアクセス
 
+<img src="web-home.jpg" width="600">
+
 Rebootをクリック
+
+<img src="web-home-1.jpg" width="600">
 
 USB(BOOTSEL)を選択
 
+<img src="web-reboot-01.jpg" width="600">
+
 flash_nuke.uf2をドラックアンドドロップ
+
+<img src="rpo-rp2.jpg" width="600">
 
 しばらく待つと再度ウインドウが表示される
 
@@ -33,9 +41,19 @@ Tiltボタンを押しながら、Right Analogを押すことで上下にシフ�
 ## Pin Mappingでは、方向キーは設定しない
 Tiltの機能を使用する場合、Up,Down,Left,Rightの設定は、Add-Ons ConfigurationのTiltから設定を行います。
 
+<img src="web-config-01.jpg" width="600">
+
 そのほかのボタンは、こちらで設定可能です。
+
+<img src="web-pin-mapping.jpg" width="600">
+
 ## Add-Ons ConfigurationのTiltから方向キーを設定
+
+<img src="web-config-addon-01.jpg" width="600">
+
 Left Analog（Lスティック）とRight Analog(Cスティック)の設定をしてください。
+
+<img src="web-pin-mapping.jpg" width="600">
 ## FunctionボタンとRight Analogを同時押しでHome,Minus,Plus,Captureが機能する
 Functionボタンは、Right Analogと同時押しすることで、Home,Minus,Plus,Captureが機能します。
 
