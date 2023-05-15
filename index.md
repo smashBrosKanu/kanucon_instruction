@@ -6,8 +6,9 @@
 # Webconfigへのアクセス方法
 かぬコンの設定は、Webconfigから行います。
 
-Plusボタンを押しながらPCへ接続
-![DefaultのMinusボタンの位置](button-s2.jpg "サンプル")
+Plusボタンを押しながらPCへ接続（デフォルトのPlusボタンは画像の位置です。）
+
+<img src="button-s2.jpg" width="300">
 
 [Link](http://192.168.7.1)にアクセス
 # ファームウェアの更新方法について
