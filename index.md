@@ -3,6 +3,10 @@
 
 詳しい使い方は、[GP2040-CE](https://gp2040-ce.info/#/)　をご確認ください。
 
+# かぬコンのボタン配置
+
+<img src="button-layout.jpg" width="600">
+
 # Webconfigへのアクセス方法
 かぬコンの設定は、Webconfigから行います。
 
