@@ -36,7 +36,16 @@ PCとかぬコンの接続を解除
 
 # TILTボタンについて
 かぬコンでは、スマブラ特有の動作をスティックを使わずに再現するためにTILTボタンを設定しています。
+
 Tilt1よりTilt2のほうがスティックの傾きがより小さくなります。
+
+### tilt1
+<img src="tilt1-01.jpg" width="600">
+
+
+### tilt2
+<img src="tilt2-01.jpg" width="600">
+
 Tiltボタンを押しながら、Right Analogを押すことで上下にシフトさせることができます。
 ## Pin Mappingでは、方向キーは設定しない
 Tiltの機能を使用する場合、Up,Down,Left,Rightの設定は、Add-Ons ConfigurationのTiltから設定を行います。
