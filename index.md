@@ -30,7 +30,7 @@ USB(BOOTSEL)を選択
 
 <img src="web-reboot-01.jpg" width="600">
 
-[flash_nuke.uf2](./flash_nuke.uf2)をドラックアンドドロップ
+[flash_nuke.uf2](https://datasheets.raspberrypi.com/soft/flash_nuke.uf2)をドラックアンドドロップ
 
 <img src="rpo-rp2.jpg" width="600">
 
