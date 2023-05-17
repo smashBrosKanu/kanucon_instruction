@@ -7,6 +7,8 @@
 
 <img src="button-layout.jpg" width="600">
 
+*LS→Function、MS→Minusとなっています。
+
 # Webconfigへのアクセス方法
 かぬコンの設定は、Webconfigから行います。
 
@@ -28,13 +30,14 @@ USB(BOOTSEL)を選択
 
 <img src="web-reboot-01.jpg" width="600">
 
-flash_nuke.uf2をドラックアンドドロップ
+[flash_nuke.uf2](./flash_nuke.uf2)をドラックアンドドロップ
 
 <img src="rpo-rp2.jpg" width="600">
 
 しばらく待つと再度ウインドウが表示される
 
-GP2040-CE_0.7.1_WaveshareZero.uf2（ファイル名は変更されている可能性があります。）をドラックアンドドロップ
+[firmware](./GP2040-CE_0.7.1_WaveshareZero.uf2)
+をドラックアンドドロップ
 
 PCとかぬコンの接続を解除
 
