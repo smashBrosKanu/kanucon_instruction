@@ -63,6 +63,8 @@ Tiltの機能を使用する場合、Up,Down,Left,Rightの設定は、Add-Ons Co
 
 <img src="web-pin-mapping.jpg" width="600">
 
+<img src="gpio-01.jpg" width="300">
+
 ## Add-Ons ConfigurationのTiltから方向キーを設定
 
 <img src="web-config-addon-01.jpg" width="600">
